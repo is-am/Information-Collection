@@ -1,5 +1,5 @@
 # information
-
+这是一个关于信息收集的项目，使用了vue+node+mysql完成的
 ## Project setup
 ```
 npm install
@@ -9,7 +9,8 @@ npm install
 ```
 npm run serve
 ```
-
+node-koa : nodemon ./app.js
+vue : npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
