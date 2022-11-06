@@ -1,0 +1,200 @@
+[
+  {
+    "id": "1",
+    "path": "/home",
+    "name": "home",
+    "label": "首页",
+    "icon": "s-home",
+    "url": "home/home"
+  },
+
+  {
+    "id": "2",
+    "label": "公告信息管理",
+    "icon": "video-play",
+    "children": [
+      {
+        "id": "2-1",
+        "path": "/affiche",
+        "name": "affiche",
+        "label": "公告管理",
+        "icon": "setting",
+        "url": "adminInform/affiche"
+      },
+      {
+        "id": "2-2",
+        "path": "/notice",
+        "name": "notice",
+        "label": "通知管理",
+        "icon": "setting",
+        "url": "adminInform/notice"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "label": "用户管理",
+    "icon": "user",
+    "children": [
+      {
+        "id": "3-1",
+        "path": "/studentsUser",
+        "name": "studentsUser",
+        "label": "学生信息管理",
+        "icon": "setting",
+        "url": "adminUser/studentsUser"
+      },
+      {
+        "id": "3-2",
+        "path": "/teachersUser",
+        "name": "teachersUser",
+        "label": "教师信息管理",
+        "icon": "setting",
+        "url": "adminUser/teachersUser"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "label": "就业质量分析",
+    "icon": "setting",
+    "children": [
+      {
+        "id": "4-1",
+        "path": "/lineChart",
+        "name": "lineChart",
+        "label": "学生意向城市",
+        "icon": "s-marketing",
+        "url": "teacherEcharts/lineChart"
+      },
+      {
+        "id": "4-2",
+        "path": "/ContractRate",
+        "name": "ContractRate",
+        "label": "意向薪资与毕业去向",
+        "icon": "setting",
+        "url": "teacherEcharts/ContractRate"
+      },
+      {
+        "id": "4-3",
+        "path": "/pie",
+        "name": "pie",
+        "label": "学生工作职位类别图",
+        "icon": "pie-chart",
+        "url": "teacherEcharts/pie"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "path": "/personalInfo",
+    "name": "personalInfo",
+    "label": "个人信息",
+    "icon": "postcard",
+    "url": "StudentInfoCollection/personalInfo"
+  },
+  {
+    "id": "6",
+    "path": "/StudentsContact",
+    "name": "StudentsContact",
+    "label": "联系方式",
+    "icon": "postcard",
+    "url": "StudentInfoCollection/StudentsContact"
+  },
+  {
+    "id": "7",
+    "path": "/studentsEmployment",
+    "name": "studentsEmployment",
+    "label": "就业信息",
+    "icon": "postcard",
+    "url": "StudentInfoCollection/studentsEmployment"
+  },
+  {
+    "id": "8",
+    "path": "/credential",
+    "name": "credential",
+    "label": "报到证信息",
+    "icon": "postcard",
+    "url": "StudentInfoCollection/credential"
+  },
+  {
+    "id": "9",
+    "path": "/record",
+    "name": "record",
+    "label": "户口档案转移",
+    "icon": "postcard",
+    "url": "StudentInfoCollection/record"
+  },
+  {
+    "id": "10",
+    "path": "/internshipUnits",
+    "name": "internshipUnits",
+    "label": "实习单位信息",
+    "icon": "postcard",
+    "url": "StudentInfoCollection/internshipUnits"
+  },
+  {
+    "id": "11",
+    "path": "/intention",
+    "name": "intention",
+    "label": "就业意向",
+    "icon": "postcard",
+    "url": "StudentInfoCollection/intention"
+  },
+  {
+    "id": "12",
+    "path": "/teacherEmployment",
+    "name": "teacherEmployment",
+    "label": "学生就业信息表",
+    "icon": "setting",
+    "url": "teacher/teacherEmployment"
+  },
+  {
+    "id": "13",
+    "path": "/teacherContact",
+    "name": "teacherContact",
+    "label": "学生联系方式表",
+    "icon": "setting",
+    "url": "teacher/teacherContact"
+  },
+  {
+    "id": "14",
+    "path": "/teacherCredential",
+    "name": "teacherCredential",
+    "label": "报到证信息表",
+    "icon": "setting",
+    "url": "teacher/teacherCredential"
+  },
+  {
+    "id": "15",
+    "path": "/teacherIntention",
+    "name": "teacherIntention",
+    "label": "就业意向表",
+    "icon": "setting",
+    "url": "teacher/teacherIntention"
+  },
+  {
+    "id": "16",
+    "path": "/teacherRecord",
+    "name": "teacherRecord",
+    "label": "户口档案信息表",
+    "icon": "setting",
+    "url": "teacher/teacherRecord"
+  },
+  {
+    "id": "17",
+    "path": "/teacherStudentInfo",
+    "name": "teacherStudentInfo",
+    "label": "学生个人信息表",
+    "icon": "setting",
+    "url": "teacher/teacherStudentInfo"
+  },
+  {
+    "id": "18",
+    "path": "/teacherUnits",
+    "name": "teacherUnits",
+    "label": "实习单位信息表",
+    "icon": "setting",
+    "url": "teacher/teacherUnits"
+  }
+]

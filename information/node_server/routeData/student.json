@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "path": "/home",
+    "name": "home",
+    "label": "首页",
+    "icon": "s-home",
+    "url": "home/home"
+  },
+  {
+    "id": "5",
+    "path": "/personalInfo",
+    "name": "personalInfo",
+    "label": "个人信息",
+    "icon": "postcard",
+    "url": "StudentInfoCollection/personalInfo"
+  },
+  {
+    "id": "6",
+    "path": "/StudentsContact",
+    "name": "StudentsContact",
+    "label": "联系方式",
+    "icon": "postcard",
+    "url": "StudentInfoCollection/StudentsContact"
+  },
+  {
+    "id": "7",
+    "path": "/studentsEmployment",
+    "name": "studentsEmployment",
+    "label": "就业信息",
+    "icon": "postcard",
+    "url": "StudentInfoCollection/studentsEmployment"
+  },
+  {
+    "id": "8",
+    "path": "/credential",
+    "name": "credential",
+    "label": "报到证信息",
+    "icon": "postcard",
+    "url": "StudentInfoCollection/credential"
+  },
+  {
+    "id": "9",
+    "path": "/record",
+    "name": "record",
+    "label": "户口档案转移",
+    "icon": "postcard",
+    "url": "StudentInfoCollection/record"
+  },
+  {
+    "id": "10",
+    "path": "/internshipUnits",
+    "name": "internshipUnits",
+    "label": "实习单位信息",
+    "icon": "postcard",
+    "url": "StudentInfoCollection/internshipUnits"
+  },
+  {
+    "id": "11",
+    "path": "/intention",
+    "name": "intention",
+    "label": "就业意向",
+    "icon": "postcard",
+    "url": "StudentInfoCollection/intention"
+  }
+]
